@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+<<<<<<<< HEAD:QuatTran/opengl_demo/x64/Debug/opengl_demo.exe.recipe
+      <FullPath>D:\DHMT\QuatTran\QuatTran\x64\Debug\opengl_demo.exe</FullPath>
+========
+      <FullPath>D:\DHMT\DHMT_BTL\Nhom 11\Nhom 11\x64\Debug\opengl_demo.exe</FullPath>
+>>>>>>>> 77fe4aa (DHMT):DHMT_BTL/Nhom 6/Nhom 11/opengl_demo/x64/Debug/opengl_demo.exe.recipe
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles />
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>
