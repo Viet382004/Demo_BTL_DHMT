@@ -1,0 +1,33 @@
+﻿  main.cpp
+D:\DHMT\QuatTran\QuatTran\opengl_demo\include\Vector_matrix.h(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'main.cpp')
+  
+D:\DHMT\QuatTran\QuatTran\opengl_demo\main.cpp(200,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\DHMT\QuatTran\QuatTran\opengl_demo\main.cpp(200,76): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\DHMT\QuatTran\QuatTran\opengl_demo\main.cpp(203,75): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\DHMT\QuatTran\QuatTran\opengl_demo\main.cpp(203,69): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\DHMT\QuatTran\QuatTran\opengl_demo\main.cpp(203,63): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\DHMT\QuatTran\QuatTran\opengl_demo\main.cpp(213,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\DHMT\QuatTran\QuatTran\opengl_demo\main.cpp(213,76): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\DHMT\QuatTran\QuatTran\opengl_demo\main.cpp(213,66): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\DHMT\QuatTran\QuatTran\opengl_demo\main.cpp(226,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\DHMT\QuatTran\QuatTran\opengl_demo\main.cpp(226,76): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\DHMT\QuatTran\QuatTran\opengl_demo\main.cpp(226,71): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\DHMT\QuatTran\QuatTran\opengl_demo\main.cpp(226,66): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\DHMT\QuatTran\QuatTran\opengl_demo\main.cpp(229,75): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\DHMT\QuatTran\QuatTran\opengl_demo\main.cpp(229,69): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\DHMT\QuatTran\QuatTran\opengl_demo\main.cpp(239,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\DHMT\QuatTran\QuatTran\opengl_demo\main.cpp(239,76): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\DHMT\QuatTran\QuatTran\opengl_demo\main.cpp(239,71): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\DHMT\QuatTran\QuatTran\opengl_demo\main.cpp(242,75): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\DHMT\QuatTran\QuatTran\opengl_demo\main.cpp(242,69): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\DHMT\QuatTran\QuatTran\opengl_demo\main.cpp(242,63): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\DHMT\QuatTran\QuatTran\opengl_demo\main.cpp(250,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\DHMT\QuatTran\QuatTran\opengl_demo\main.cpp(250,72): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\DHMT\QuatTran\QuatTran\opengl_demo\main.cpp(259,55): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\DHMT\QuatTran\QuatTran\opengl_demo\main.cpp(263,20): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\DHMT\QuatTran\QuatTran\opengl_demo\main.cpp(285,23): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\DHMT\QuatTran\QuatTran\opengl_demo\main.cpp(286,26): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\DHMT\QuatTran\QuatTran\opengl_demo\main.cpp(287,26): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\DHMT\QuatTran\QuatTran\opengl_demo\main.cpp(288,26): warning C4305: 'argument': truncation from 'double' to 'float'
+  opengl_demo.vcxproj -> D:\DHMT\QuatTran\QuatTran\x64\Debug\opengl_demo.exe
